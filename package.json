@@ -1,0 +1,23 @@
+{
+  "name": "very-slim-nodejs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talibackend/very-slim-nodejs-app.git"
+  },
+  "author": "Femi Fatokun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talibackend/very-slim-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/talibackend/very-slim-nodejs-app#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
